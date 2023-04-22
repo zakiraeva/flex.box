@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<syle>
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+footer img {
+  width: 100%;
+  max-width: 210px;
+  object-fit: cover;
+  height: 300px;
+  border-radius: 16px 50px 20px 16px;
+  margin: 10px;
+}
+li {
+    padding-left: 20px;
+    background-color: ;
+    border: 2px solid  salmon;
+    background-color: slateblue;
+    color: white;
+}
+</style>
+<body>
+<header>
+	<ul>
+		<li>japan</li>
+		
+		<li>korean</li>
+		
+		<li>kyrgyz</li>
+		
+		<li>france</li>
+
+		<li>NYC</li>
+
+		<li>brazil</li>
+		
+	</ul>
+</header>
+
+<footer>
+	<img src="https://imgs.search.brave.com/ydeHFOi6vJxr9oPOVbSTewj4EgJsrwcc32C6hmSOL8g/rs:fit:717:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5m/QkxULWcwNVJ1aDFj/WFZMZS1FOEx3SGFF/NSZwaWQ9QXBp">	
+	<img src="https://imgs.search.brave.com/N90qC0V1f5v0sB52ZDcqu188Svi6pVcXWm9_M9YFgLQ/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5s/UERvOUFvZ0psNlF2/YnE3cjBrdjR3SGFF/OCZwaWQ9QXBp">
+	<img src="https://imgs.search.brave.com/Sx_JmmeMv01w-CvQloFeesXc1eLn0nNTNIcfVBHrozU/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/cG52bW9DbWxjN3df/VWtkZ3d1ZkZnSGFF/SyZwaWQ9QXBp">
+	<img src="https://imgs.search.brave.com/muFowc1vHFLOaxbg5_14bvM1MXZm2My3K1GdoLz7CT4/rs:fit:660:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5i/NThvM01ZWjYwQXFz/ZHhYWlRYaFhRSGFG/VSZwaWQ9QXBp">
+	<img src="https://imgs.search.brave.com/aLK7uO5_KSZLxOcqXzkHlFd0vs0CNlf3YK8ZO0RL-O8/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5L/dXhRTVA5dnhiYjJN/SXRtc0w1eVFBSGFF/byZwaWQ9QXBp">
+	<img src="https://imgs.search.brave.com/LYwGNWdDqJmyAiYUwa0OvC82_tf6CLTp8gUSL1Q9iyU/rs:fit:706:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5Y/Tm9kZVV6ZUowTmhJ/aHNJX1ZGbXB3SGFF/LSZwaWQ9QXBp">
+</footer>
+
+
